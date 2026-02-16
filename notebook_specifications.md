@@ -1,4 +1,3 @@
-```markdown
 # Synthetic Text for NLP: Augmenting Financial Distress Prediction for CFA Professionals
 
 **Persona:** Alex Chen, CFA, a Senior Credit Analyst at Alpha Capital Management.
@@ -870,4 +869,3 @@ print("5.  **Model Collapse Risk:** Be aware of 'model collapse', a phenomenon w
 The diversity analysis provides valuable insights. The TTR and Semantic Diversity scores indicate that the filtered synthetic headlines maintain a good level of lexical and semantic variety, comparable to real data. This suggests that the LLM is not merely repeating patterns but generating genuinely novel yet realistic content. The t-SNE plot visually reinforces this, showing synthetic distress headlines clustering similarly to real distress headlines, suggesting they occupy a relevant and plausible region in the embedding space. The distribution of specific distress types in synthetic data confirms Alex's prompts encouraged a balanced range.
 
 Finally, Alex emphasizes the critical ethical guardrails for Alpha Capital Management. These discussions are paramount in finance, where data integrity and fair practices are non-negotiable. By adhering to strict internal use policies, clear labeling, bias auditing, and awareness of model collapse risk, Alex ensures the responsible and effective application of synthetic data to enhance credit risk management. This holistic approach ensures not only model performance but also ethical compliance, safeguarding the firm's reputation and trust.
-```
